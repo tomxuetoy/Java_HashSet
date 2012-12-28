@@ -1,0 +1,15 @@
+Compile:
+    javac testIterator.java
+
+Run result:
+    $ java testIterator
+    第二个
+    7
+    第三个
+    6
+    5
+    4
+    8
+    第一个
+    [第二个, 7, 第三个, 6, 5, 4, 8, 第一个]
+    一共有8个元素
